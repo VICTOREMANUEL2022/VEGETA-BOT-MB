@@ -1,4 +1,4 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱 💨</h1>
+<h1 align="center">⚔️ © Powered By[GATABOT-MD Y VÍCTOR BOT🇺🇾] 👑⚔️ 💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
@@ -9,8 +9,8 @@
 
 <div align="center">
  
-[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526641804242)
-[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/526641804242)
+[![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59894243071)
+[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59894243071)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vegeta-bot)
 </div>
 
@@ -30,12 +30,12 @@
 ### **`💭 Contáctanos`**
 
 <a
-href="https://wa.me/526641804242?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
+href="https://wa.me/59894243071?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
 
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/526641804242
+* https://wa.me/59894243071
 
 ---
 
@@ -86,7 +86,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT-MB
+    cd -cd GATABOT-MD-VICTOR-BOT-Bot-MD-MB
     ```
 
 2. Inicia el bot nuevamente:
@@ -102,12 +102,13 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT-MB
+    cd -cd GATABOT-MD-VICTOR-BOT-Bot-MD-MB
     ```
 
 2. Elimina la carpeta MiniSession:
     ```bash
-    rm -rf VegetaSession
+    rm -rf
+GATABOT-MD-VICTOR-BOT-Bot-MDSession
     ```
 
 3. Inicia el bot nuevamente:
@@ -188,4 +189,4 @@ href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="1
 <a
 href="https://github.com/brayan127p"><img src="https://github.com/brayan127p.png" width="140" height="140" alt="Brayan"/></a>
 
-[© Powered By Team STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
+[© Powered By Team GATABOT-MD-VICTOR-BOT-Bot-MD STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
